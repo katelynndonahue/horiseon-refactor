@@ -1,19 +1,19 @@
 # horiseon-refactor
 # <Your-Project-Title>
 ## Description
-My project is an extremely rough version of what it is supposed to be. I have realized that I struggle with html and css.style. I am just now beginning to have a very basic understanding of the terminal.
-- My motivation for this project is to  broaded my exposure to refactors as well as creating a repo.
-- I built this as practice to create a refactor and a repo.
+I worked with my tutor to help me to better understand the basics of html and css. It clarified much of what I have struggled with and I believe that this revision is much more acceptable to the requirements.
+- My motivation for this project is to  broaded my exposure to refactors, repos and basic html and css.
+- I built this as practice to create a refactor, repo and make necessary revisions to html and css.
 - It is supposed to be more user friendly, specifically to those with special needs or disabilities that might need enhanced or altered functionality to accompany their specific needs.
-- I've struggled with the html and css.style, however, I am continually learning and understanding more. I successfully created the repo and I've enhanced my understanding of the git commands.
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- Create new repository using Github, with short but memorable name, making it public and with a READ.me.
+- Click green Code button to copy SSH key to clone into your terminal or Gitbash, for Windows.
+- Using the terminal or Gitbash, ensure that you are on correct directory before creating your repository. Once in the correct folder, you will do a: 
+git status
+Followed by a:
+ 
+
+
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
